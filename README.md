@@ -99,5 +99,3 @@ The script performs the following steps:
 8. In the `main()` function, the script sets the CSV file name to "universities_in_canada.csv" and reads the university data from the CSV using the `read_data_from_csv()` function.
 
 9. The script then iterates through each university data and calls the `add_or_update_user()` function to add or update the university data in the API.
-
-That's it! With these explanations and instructions, you should be able to run the scripts for Task 3a and Task 3b successfully.
